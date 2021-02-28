@@ -1,0 +1,11 @@
+E;Key
+P;Feraligatr;100;100;100
+P;Zapdos;10;10;10
+P;Moltres;10;10;10
+P;Articuno;10;10;10
+P;Lugia;10;10;10
+P;HoOh;10;10;10
+P;Entei;10;10;10
+P;Raikou;10;10;10
+P;Suicune;150;150;150
+P;Unown;100;100;100

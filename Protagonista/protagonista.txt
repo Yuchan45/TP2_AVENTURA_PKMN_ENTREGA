@@ -1,0 +1,9 @@
+E;Yuchan
+P;Typhlosion;160;160;160
+P;Pidgeotto;100;100;100
+P;Tyranitar;100;100;100
+P;Lapras;100;100;100
+P;Dragonite;100;100;100
+P;Feraligatr;100;100;100
+P;Meganium;100;100;100
+P;Charizard;100;100;100
